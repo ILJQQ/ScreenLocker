@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScreenLocker</string>
+    <string name="regist">注册成为系统组件</string>
+    <string name="unregist">注销成为系统组件</string>
+    <string name="lock">锁屏</string>
+    <string name="intro">需要获取管理者权限才能开启锁屏功能</string>
+    <string name="one_key_lock">Register</string>
+    <string name="name_register">注册管理员</string>
+    <string name="name_lock">一键锁屏</string>
+</resources>
